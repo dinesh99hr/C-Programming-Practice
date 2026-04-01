@@ -2,9 +2,11 @@
 
 int main() {
 int num;
+
 printf("Enter Number: ");
 scanf("%d", &num);
 
 printf("Number Entered by you: %d", num);
+
 return 0;
 }
